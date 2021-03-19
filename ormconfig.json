@@ -4,7 +4,7 @@
     "host": "database",
     "port": 5432,
     "username": "postgres",
-    "password": "database",
+    "password": "postgres",
     "database": "monorepo",
     "synchronize": true, 
     "logging": false, 
